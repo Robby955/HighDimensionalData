@@ -5,12 +5,12 @@ In this article, we will work through and discuss part of Chapter 18 from "The E
 
 High-dimensional data refers to data in which there is a high number of columns relative to the number of observations. In particular, if we have N observations and each observation has p columns (or features), and the number of features is much larger than the number of observations (p >> N), it is said to be a high-dimensional problem. 
 
-The associated article can be seen here ![Medium Article](https://medium.com/cantors-paradise/introduction-to-high-dimensional-problems-p-n-1b22cb9a0315)
+The associated article can be seen here [Medium Article](https://medium.com/cantors-paradise/introduction-to-high-dimensional-problems-p-n-1b22cb9a0315)
 
 Here is a quick comparison;
 
-![alt text](https://github.com/Robby955/HighDimensionalData/blob/main/images/compare.jpeg)
+![Comparing regular data to high-dim](https://github.com/Robby955/HighDimensionalData/blob/main/images/compare.jpeg)
 
 And here is a recreated plot from the Textbook (code provided)
 
-![alt text](https://github.com/Robby955/HighDimensionalData/blob/main/images/comparemodels.jpeg)
+![recreated plot from The Elements of Statistical Learning](https://github.com/Robby955/HighDimensionalData/blob/main/images/comparemodels.jpeg)
